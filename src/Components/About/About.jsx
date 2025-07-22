@@ -29,7 +29,7 @@ const About = () => {
         </div>
       </div>
 
-      <div className="about-achievements">
+      {/* <div className="about-achievements">
         <div className="about-achievement">
         <h1>10+</h1> 
         <p>YEAR OF EXPERIENCE</p>
@@ -47,7 +47,7 @@ const About = () => {
 
 
 
-      </div>
+      </div> */}
     </div>
   )
 }
